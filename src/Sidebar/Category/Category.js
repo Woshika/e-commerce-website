@@ -1,8 +1,19 @@
+import Input  from "../../components/Input";
 import "./Category.css";
 
-function category() {
+function Category() {
   return (
-    <div>Category</div>
-  )
+  <div>
+    <h2 className="sidebar-title">Category</h2>
+
+    <div>
+      <Input/>
+      <Input/>
+      <Input/>
+      <Input/>
+      <Input/>
+    </div>
+  </div>
+  );
 }
-export default category;
+export default Category;
