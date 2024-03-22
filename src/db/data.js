@@ -70,7 +70,7 @@ const data = [
   },
 
   {
-    img: "https://m.media-amazon.com/images/I/61V9APfz97L._AC_UY695_.jpg",
+    img: "https://m.media-amazon.com/images/I/51PGWTXgf-L._AC_UY625_.jpg",
     title: "Loafer Flats",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
